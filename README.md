@@ -1,11 +1,28 @@
-# Data Scientist
+# Managing Director, Head of Market Risk Management
+#### Technical Skills:
+-Credit Analysis
+-Risk Management
+-Actuarial Science
+-Insurance
+-ALM
+-Fixed Annuities
+-Enterprise Risk Management
+-Life Insurance
+-Asset Management
+-Investments
+-Actuarial Consulting
+-Asset Allocation
+-Portfolio Management
+-Financial Risk
+-Market Risk
+-Economic Capital
+-Financial Reporting
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Eat Dumplings					       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Georgia State University
+- University of Nebraska-Lincoln	 			        		
+- Xiangtan University
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
